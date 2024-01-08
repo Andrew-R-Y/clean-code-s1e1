@@ -22,7 +22,7 @@ body {
 .header img {
   width: 100%;
 }
-.header .more-information {
+.link {
   font-family: fantasy, cursive;
 }
 
@@ -31,7 +31,7 @@ body {
     text-align: center;
   }
 }
-.centered-main-page-element {
+.main {
   display: block;
   width: 500px;
   margin: 0 auto 0;
@@ -41,7 +41,7 @@ body {
   display: inline-block;
   flex-grow: 1;
 }
-.task-row-wrapper {
+.task-wrapper {
   display: flex;
 }
 ul {
